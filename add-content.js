@@ -33,5 +33,12 @@ result = result + brandkind ;
 
 
 document.write(result);
+
+function getname (){
+    var customername = prompt("what's your name dear customer ?" );
+    console.log(customername);
+}
+getname();
 confirm("DO YOU WANT A HELP FROM ON OF OUR WORKER ?");
 alert("welcome to our shop");
+
